@@ -102,7 +102,7 @@ a {
       border-radius: 5px;
       transition: transform .3s;
 
-      a[href]:hover {
+      &:hover {
         transform: scale(1.1);
       }
     }
